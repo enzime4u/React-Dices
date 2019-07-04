@@ -16,11 +16,12 @@
   border: 0px;
   border-radius: 10px;
   color: white;
-  background-color: black;
+  background-color: #6c757d;
   margin-top: 3em;
+  font-size: 1.3em;
 }
 
 .RollDice button:hover {
-  background-color: darkslateblue;
+  background-color: #18a2b8;
   cursor: pointer;
 }
