@@ -2,7 +2,7 @@
   "name": "react-dice-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://enzime4u.github.io/react-dices/",
+  "homepage": "https://enzime4u.github.io/React-Dices/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
