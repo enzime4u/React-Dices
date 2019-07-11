@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-dices/static/css/main.14fdfeeb.chunk.css",
-    "main.js": "/react-dices/static/js/main.c9f80709.chunk.js",
-    "main.js.map": "/react-dices/static/js/main.c9f80709.chunk.js.map",
-    "runtime~main.js": "/react-dices/static/js/runtime~main.798e3ea4.js",
-    "runtime~main.js.map": "/react-dices/static/js/runtime~main.798e3ea4.js.map",
-    "static/js/2.7cddf10a.chunk.js": "/react-dices/static/js/2.7cddf10a.chunk.js",
-    "static/js/2.7cddf10a.chunk.js.map": "/react-dices/static/js/2.7cddf10a.chunk.js.map",
-    "index.html": "/react-dices/index.html",
-    "precache-manifest.9e0628a6255e27565301fcc9b5060991.js": "/react-dices/precache-manifest.9e0628a6255e27565301fcc9b5060991.js",
-    "service-worker.js": "/react-dices/service-worker.js",
-    "static/css/main.14fdfeeb.chunk.css.map": "/react-dices/static/css/main.14fdfeeb.chunk.css.map"
+    "main.css": "/React-Dices/static/css/main.14fdfeeb.chunk.css",
+    "main.js": "/React-Dices/static/js/main.c9f80709.chunk.js",
+    "main.js.map": "/React-Dices/static/js/main.c9f80709.chunk.js.map",
+    "runtime~main.js": "/React-Dices/static/js/runtime~main.66882b2b.js",
+    "runtime~main.js.map": "/React-Dices/static/js/runtime~main.66882b2b.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/React-Dices/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/React-Dices/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/React-Dices/index.html",
+    "precache-manifest.3dccf4150bcc48bbe8f6ec446bb08298.js": "/React-Dices/precache-manifest.3dccf4150bcc48bbe8f6ec446bb08298.js",
+    "service-worker.js": "/React-Dices/service-worker.js",
+    "static/css/main.14fdfeeb.chunk.css.map": "/React-Dices/static/css/main.14fdfeeb.chunk.css.map"
   }
 }
